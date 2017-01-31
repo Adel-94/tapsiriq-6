@@ -1,0 +1,59 @@
+
+Web inkisaf butun rabit? v? m?lumat mubadil?si haqq?nda inkisafdir. Bu rabit? HTTP protokolunds  iki t?r?f vasit?sil? yer tutur.
+Bu hisseler 2 yere bolunur.
+1.Klient.
+2.Server
+Server, must?ri telebinden  as?l? olaraq web sehifelerin  xidm?ti ucun m?suliyy?t das?y?r. Bu statik v? ya dinamik ola bil?r.
+Klient ise bir hissedir,hansi ki,servrden gelen sehifeleri  request edir ve en sonda musteriye gosterir.
+Umumilikde desek,klient proqrami ,web 
+Bu mexanizmi asagidaki sekilde izah ede bilerik.
+Klient(Istifadeci) web browser-i acir.
+Proses baslayir. 
+Klient web sehifeye giris etmek,daxil olmaq ucuun sorgunu servere yonlendirir.
+Daha sonra server sorgunu qebul edib,musteri proqramina geri donus edib cavab verir.
+Klient sehife menbeyini qebul edir ve onu gosterir.
+1.Istifadeci novleri axtaris paneline daxil edir.
+2.Klient melumati servere teqdim edir.
+3.Server melumati emal edir ve elaqeli axtaris neticesinde geri cavab verir.
+4.Klient  istifadeci gorunusu ucun ,onu yeniden gosterir.
+5. Ve istifadeci   request (teleb) olunan linke daxil olur.
+Server side proqramlasdirma bele izah olunur:
+Bu serverde birbasa calisan proqram novunun umumi bir adidir.
+Basqa sozle desek,Server side proqramlasdirma dinamik mezmunla,kontentle mesgul olmalidir.
+Bu server uzerinden calisir.
+Bir cox web sehifeler melumat bazalari ile mesgul olandan beri statik deyiller.
+Istifadesi:
+1.istifadecinin daxil etdiyini emal edir.
+2.teleb olunan sehifeleri,(request) olunan sehifeleri goruntuleyir.
+3.struktur web applications
+4.serverlerle qarsiliqli elaqe
+5.verilenler bazasi ile qarsiliqli elaqe
+6.verilenler bazasi sorgulari
+7.HTML daxil olan melumatlarin encoding-i
+8.verilenler bazasi uzerinde emeliyyatlar,silmek ,yenilemek kimi ve s.
+Server side proqramlasdirma dillerine misal olaraq gostermek olar:
+PHP
+ASP.NET (C# ve ya Visual Basic)
+C++
+Java and JSP
+Python
+Ruby on Rails ve s.
+Eynile server-side proqramlasd?rma kimi, klient proqramlasd?rma d? must?ri ucun calisir.
+Deye bilerik ki, klient prqramlasdirma  web-de qarsiliqli olan istifadeci interfeysi ile mesgul olur.
+BU daha cox bir browserdir,istifadeci masinidir esasen kod javascript kimi script dillerde calisir.
+Istifadesi:
+1.qarsiliqli web sehifeler yaratmaq
+2.dinamik isleyen mehsullar yaratmaq 
+3.istifadeci ile server arasinda bir interfeys kimi calisir.
+4.servere sorgular gonderir
+5.serverden melumatlarin axtarisi
+6.muveqqeti storage-le qarsiliqli elaqe
+7.yerli storage ile qarsiliqli elaqe
+8.client server prqrami ucun uzaq girisi  temin edir.
+Server side proqramlasdirma dillerine misal olaraq gostermek olar:
+JavaScript
+VBScript
+HTML (Structure)
+CSS (Designing)
+AJAX
+jQuery ve s.
