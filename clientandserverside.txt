@@ -5,7 +5,6 @@ Bu hisseler 2 yere bolunur.
 2.Server
 Server, must?ri telebinden  as?l? olaraq web sehifelerin  xidm?ti ucun m?suliyy?t das?y?r. Bu statik v? ya dinamik ola bil?r.
 Klient ise bir hissedir,hansi ki,servrden gelen sehifeleri  request edir ve en sonda musteriye gosterir.
-Umumilikde desek,klient proqrami ,web 
 Bu mexanizmi asagidaki sekilde izah ede bilerik.
 Klient(Istifadeci) web browser-i acir.
 Proses baslayir. 
@@ -50,7 +49,7 @@ Istifadesi:
 6.muveqqeti storage-le qarsiliqli elaqe
 7.yerli storage ile qarsiliqli elaqe
 8.client server prqrami ucun uzaq girisi  temin edir.
-Server side proqramlasdirma dillerine misal olaraq gostermek olar:
+Client side proqramlasdirma dillerine misal olaraq gostermek olar:
 JavaScript
 VBScript
 HTML (Structure)
